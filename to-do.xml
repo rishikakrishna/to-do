@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="todo.xsl"?>
+ 
+<todos>
+  <list-name>
+  My Site Dev TODO List
+  </list-name>
+  
+<todo>
+  <entry priority="1">
+    Re-work article on software schedules (get rid of 'here' links)
+  </entry>
+ 
+  <entry priority="1">
+    Write article about todo list
+  </entry>
+  <entry priority="2">
+    describe the purpose
+  </entry>
+  <entry priority="1">
+    describe the code
+  </entry>
+</todo>
+  
+ 
+<done>
+  <entry priority="3">
+    package code into zip file
+  </entry>
+  <entry priority="3">
+    publish raw files and zip file to static server
+  </entry>
+</done>
+ 
+</todos>
