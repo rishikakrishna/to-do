@@ -3,32 +3,32 @@
  
 <todos>
   <list-name>
-  My Site Dev TODO List
+  A To Do List
   </list-name>
   
 <todo>
   <entry priority="1">
-    Re-work article on software schedules (get rid of 'here' links)
+    Do the dishes!!
   </entry>
  
   <entry priority="1">
-    Write article about todo list
+    Perfect the next 12 bars of the song
   </entry>
   <entry priority="2">
-    describe the purpose
+    Sleep on time
   </entry>
   <entry priority="1">
-    describe the code
+    Make a game
   </entry>
 </todo>
   
  
 <done>
   <entry priority="3">
-    package code into zip file
+    fill out forms
   </entry>
   <entry priority="3">
-    publish raw files and zip file to static server
+    clean room
   </entry>
 </done>
  
